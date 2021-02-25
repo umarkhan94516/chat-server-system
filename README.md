@@ -1,0 +1,2 @@
+# chat-server-system
+Chat server is standalone application that is made up the communication of twoapplication, server application (which runs on server side)and client application (which runs on clients side). This application is using for chatting in stand alone system using loop back network. Initially when we want to send a message to the client and every user a server should be connected. Most of the Collection Framework are used ArrayList, Socket ,Swing etc.
